@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66788c00-bfd5-4343-b022-245d59daab2f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Activities3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="151" column="41" lean-forward="true" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="n#!!block;n#componentWillMount#0;n#RegistrationForm#0" />
+                <element signature="n#!!block;n#constructor#0;n#Activities3#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Activities4.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="n#Activities4#0" />
+                <element signature="n#!!block;n#render#0;n#Activities4#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>radio</find>
+      <find>aot</find>
+      <find>handleBack</find>
+      <find>totalPeo</find>
+      <find>applyDate</find>
+      <find>p</find>
+      <find>li</find>
+      <find>applyResults</find>
+      <find>params</find>
+      <find>required</find>
+      <find>Detail</find>
+      <find>applyP</find>
+      <find>.aboutRight</find>
+      <find>i</find>
+      <find>autocomplete</find>
+      <find>navDiv</find>
+      <find>navLogo</find>
+      <find>nav-login</find>
+      <find>timeLine</find>
+      <find>dd</find>
+      <find>dt</find>
+      <find>hover</find>
+      <find>indexPhoto</find>
+      <find>span</find>
+      <find>Table</find>
+      <find>Nationality</find>
+      <find>totalPeo1</find>
+      <find>columns</find>
+      <find>getFieldDecorator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\新项目\pc\demo1\src\containers\Home</dir>
+      <dir>E:\新项目\pc\demo1\src\containers\Activities</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/containers/Home/NearTermActivities.css" />
+        <option value="$PROJECT_DIR$/src/containers/Login/Login.js" />
+        <option value="$PROJECT_DIR$/src/static/css/reset.min.css" />
+        <option value="$PROJECT_DIR$/build/static/css/main.4e8999cb.css.map" />
+        <option value="$PROJECT_DIR$/src/store/actions/Activities.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/Activities2.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/Activities.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/Activities3.js" />
+        <option value="$PROJECT_DIR$/build/static/css/main.4e8999cb.css" />
+        <option value="$PROJECT_DIR$/build/static/js/main.3ea0217f.js" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/api/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/News/NearTerm.js" />
+        <option value="$PROJECT_DIR$/src/containers/News/NearTerm.css" />
+        <option value="$PROJECT_DIR$/src/containers/News/News.js" />
+        <option value="$PROJECT_DIR$/src/component/Menu.css" />
+        <option value="$PROJECT_DIR$/src/containers/News/News.css" />
+        <option value="$PROJECT_DIR$/src/containers/AboutUs/AboutUs.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/config/webpackDevServer.config.js" />
+        <option value="$PROJECT_DIR$/src/component/Nav.css" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/en.js" />
+        <option value="$PROJECT_DIR$/zn.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/store/action-types.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/Language.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/Language.js" />
+        <option value="$PROJECT_DIR$/Translate.js" />
+        <option value="$PROJECT_DIR$/src/component/App.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/component/Nav.js" />
+        <option value="$PROJECT_DIR$/src/component/Menu.js" />
+        <option value="$PROJECT_DIR$/src/containers/AboutUs/AboutUs.js" />
+        <option value="$PROJECT_DIR$/src/containers/Home/Home.css" />
+        <option value="$PROJECT_DIR$/src/containers/Home/Home.js" />
+        <option value="$PROJECT_DIR$/src/containers/Activities/Activities.css" />
+        <option value="$PROJECT_DIR$/src/api/api.js" />
+        <option value="$PROJECT_DIR$/src/containers/Activities/Activities2.js" />
+        <option value="$PROJECT_DIR$/src/containers/Activities/Activities.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/Activities2.js" />
+        <option value="$PROJECT_DIR$/src/containers/InnovationCenter/InnovationCenter.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/Activities3.js" />
+        <option value="$PROJECT_DIR$/src/langConfig/en-US.js" />
+        <option value="$PROJECT_DIR$/src/langConfig/zh-CN.js" />
+        <option value="$PROJECT_DIR$/build/service-worker.js" />
+        <option value="$PROJECT_DIR$/build/static/css/main.0b8c412f.css" />
+        <option value="$PROJECT_DIR$/build/static/js/main.c5ff8c25.js" />
+        <option value="$PROJECT_DIR$/src/containers/Activities/Activities4.js" />
+        <option value="$PROJECT_DIR$/src/containers/Activities/Activities3.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="145" />
+    <option name="y" value="18" />
+    <option name="width" value="1413" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="Activities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/h5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\新项目\pc\demo1\public\LenovoVLECApp\Lenovo.VLEC.Web\App\images" />
+      <recent name="E:\新项目\pc\demo1\public\App\images\banner" />
+      <recent name="E:\新项目\pc\demo1\src\containers\News" />
+      <recent name="E:\新项目\pc\demo1\src\static\images" />
+      <recent name="E:\新项目\pc\demo1\src\containers\Home\App\images\banner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\新项目\pc\demo1\translations" />
+      <recent name="E:\新项目\pc\demo1\public" />
+      <recent name="E:\新项目\pc\demo1\src\containers\Home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66788c00-bfd5-4343-b022-245d59daab2f" name="Default" comment="" />
+      <created>1537320179783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537320179783</updated>
+      <workItem from="1537320181381" duration="1239000" />
+      <workItem from="1537365902926" duration="42381000" />
+      <workItem from="1537839848109" duration="25241000" />
+      <workItem from="1537881949661" duration="74714000" />
+      <workItem from="1538187297039" duration="24246000" />
+      <workItem from="1538286969238" duration="5391000" />
+      <workItem from="1538963051075" duration="3107000" />
+      <workItem from="1538977020341" duration="60886000" />
+      <workItem from="1539307951337" duration="23197000" />
+      <workItem from="1539653760823" duration="72275000" />
+      <workItem from="1540172358865" duration="125044000" />
+      <workItem from="1540776558379" duration="144246000" />
+      <workItem from="1541251773149" duration="61281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="663248000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1064" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="0" weight="0.32988507" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" weight="0.28897136" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32988507" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021209" side_tool="true" weight="0.46551725" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32988507" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2497349" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49787912" weight="0.32988507" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32979852" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32988507" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32988507" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.28897136" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32988507" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32988507" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2497349" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32988507" />
+      <window_info anchor="bottom" id="TypeScript" order="0" weight="0.32988507" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32988507" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49787912" weight="0.46551725" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021209" side_tool="true" weight="0.46551725" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32979852" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="E:/wtm/wtmcli/src/app/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/index.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/index.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/utils/Help.js" />
+        <option value="E:/wtm/wtmcli/src/utils/Request.js.map" />
+        <option value="E:/wtm/wtmcli/src/utils/Request.js" />
+        <option value="E:/wtm/wtmcli/src/utils/Help.js.map" />
+        <option value="E:/wtm/wtmcli/src/containers/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/containers/index.js" />
+        <option value="E:/wtm/wtmcli/src/store/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/store/index.js" />
+        <option value="E:/wtm/wtmcli/src/app/layout/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/layout/content.js" />
+        <option value="E:/wtm/wtmcli/src/app/layout/content.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/layout/header.js" />
+        <option value="E:/wtm/wtmcli/src/app/layout/index.js" />
+        <option value="E:/wtm/wtmcli/src/app/layout/sider.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/layout/header.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/layout/sider.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/index.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/authorize.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/subMenu.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/authorize.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/system/subMenu.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/login/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/login/index.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/index.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv1.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv1.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv2.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv3.js" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv3.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/app/pages/home/antv2.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/Common.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/StoreBasice.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/StoreBasice.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/SwaggerModel.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/HttpBasics.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/Common.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/HttpBasics.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/core/SwaggerModel.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableBody.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableHeader.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableBody.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableEdit.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableHeader.js" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/dataEntry.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/tableEdit.js.map" />
+        <option value="E:/wtm/wtmcli/src/wtm/components/table/dataEntry.js" />
+        <option value="E:/wtm/wtmcli/src/store/system/menu.js" />
+        <option value="E:/wtm/wtmcli/src/store/system/menu.js.map" />
+        <option value="E:/wtm/wtmcli/src/store/system/user.js" />
+        <option value="E:/wtm/wtmcli/src/store/system/authorize.js" />
+        <option value="E:/wtm/wtmcli/src/store/system/user.js.map" />
+        <option value="E:/wtm/wtmcli/src/store/system/authorize.js.map" />
+        <option value="E:/wtm/wtmcli/src/store/table/index.js" />
+        <option value="E:/wtm/wtmcli/src/store/table/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/drop/drop.js" />
+        <option value="E:/wtm/wtmcli/src/components/drop/source.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/drop/source.js" />
+        <option value="E:/wtm/wtmcli/src/components/drop/drag.js" />
+        <option value="E:/wtm/wtmcli/src/components/drop/drag.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/drop/drop.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/editer/index.js" />
+        <option value="E:/wtm/wtmcli/src/components/editer/index.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableBody.js" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableHeader.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableBody.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableEdit.js" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableHeader.js" />
+        <option value="E:/wtm/wtmcli/src/components/table/dataEntry.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/table/tableEdit.js.map" />
+        <option value="E:/wtm/wtmcli/src/components/table/dataEntry.js" />
+        <option value="E:/wtm/wtmcli/src/containers/editer/index.js" />
+        <option value="E:/wtm/wtmcli/src/containers/editer/index.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>14</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>337</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>208</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>191</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/AboutUs/AboutUs.js</url>
+          <line>126</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>155</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>460</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>45</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>156</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>319</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>369</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>309</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>114</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>245</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities.js</url>
+          <line>263</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/News/News.js</url>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Login/Login.js</url>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>355</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>429</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>476</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>78</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>344</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>352</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>86</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>162</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>262</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>174</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>416</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/InnovationCenter/InnovationCenter.js</url>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities4.js</url>
+          <line>93</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>213</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/News/News.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>86</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>136</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/AboutUs/AboutUs.js</url>
+          <line>69</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities2.js</url>
+          <line>60</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>497</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>342</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>340</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>45</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>224</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>236</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/component/Menu.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>145</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>490</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>351</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Home/Home.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities4.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities4.js</url>
+          <line>27</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>138</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>63</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activities/Activities3.js</url>
+          <line>34</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="114" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/translations/data.json" />
+    <entry file="file://$PROJECT_DIR$/zn.js" />
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.3ea0217f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="46454" column="12" selection-start-line="46454" selection-start-column="12" selection-end-line="46454" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/Activities4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/Activities2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#82#197#0" />
+            <element signature="e#219#307#0" />
+            <element signature="e#331#419#0" />
+            <element signature="e#441#527#0" />
+            <element signature="e#549#633#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/Activities4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en.js" />
+    <entry file="file://$PROJECT_DIR$/Translate.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/Nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="62" selection-start-line="62" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/Language.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#1014#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/Language.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/AboutUs/AboutUs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="432" column="67" lean-forward="true" selection-start-line="432" selection-start-column="67" selection-end-line="432" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#1006#1444#0" />
+            <element signature="e#1472#2176#0" />
+            <element signature="e#3204#5882#0" />
+            <element signature="e#2883#3090#0" />
+            <element signature="e#3135#3552#0" />
+            <element signature="e#3601#3882#0" />
+            <element signature="e#4218#4567#0" />
+            <element signature="e#4770#5048#0" />
+            <element signature="e#5218#5496#0" />
+            <element signature="e#7229#7770#0" />
+            <element signature="e#8882#9011#0" />
+            <element signature="e#7956#8804#0" />
+            <element signature="e#9115#9325#0" />
+            <element signature="e#10987#11090#0" />
+            <element signature="e#9027#9130#0" />
+            <element signature="e#11687#11836#0" />
+            <element signature="e#9009#13942#0" />
+            <element signature="e#18943#20767#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="99" column="16" lean-forward="true" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!block;n#dependencies#0;n#!!top" />
+            <element signature="n#!!block;n#jest#0;n#!!top" />
+            <element signature="n#!!block;n#eslintConfig#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/Home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/InnovationCenter/InnovationCenter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/News/News.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3432">
+          <caret line="88" column="24" lean-forward="true" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#1122#1332#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#2521#2739#0" />
+            <element signature="e#2776#3032#0" />
+            <element signature="e#3162#3720#0" />
+            <element signature="e#3762#4850#0" />
+            <element signature="e#4892#5524#0" />
+            <element signature="e#5568#6592#0" />
+            <element signature="e#6636#7719#0" />
+            <element signature="e#7763#8931#0" />
+            <element signature="e#8948#9617#0" />
+            <element signature="e#10228#12033#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="71" column="15" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="71" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#RegistrationForm#0" />
+            <element signature="e#442#472#0" />
+            <element signature="e#509#592#0" />
+            <element signature="e#954#986#0" />
+            <element signature="e#2513#2731#0" />
+            <element signature="e#2768#3024#0" />
+            <element signature="e#6141#6371#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/Activities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/Activities2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#99#176#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/action-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/Activities3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#182#255#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/App/images/banner/20180831034038403858121.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/media/footer-backb.a54e9979.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/media/QRCode.07f471f0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/media/watch_alt_large.5d28a367.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/media/photo-01.9d06d9db.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/LenovoVLECApp/Lenovo.VLEC.Web/App/images/new01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/langConfig/zh-CN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/langConfig/en-US.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="352" column="40" selection-start-line="352" selection-start-column="40" selection-end-line="352" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#getTime#0;n#Home#0" />
+            <element signature="n#!!block;n#getCalendar#0;n#Home#0" />
+            <element signature="n#!!block;n#getWeek#0;n#Home#0" />
+            <element signature="n#!!block;n#getLastDay#0;n#Home#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/InnovationCenter/InnovationCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#601#742#0" />
+            <element signature="e#7167#7739#0" />
+            <element signature="e#8304#11557#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/css/main.0b8c412f.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#282#5353#1" expanded="true" />
+            <element signature="e#5549#10620#1" expanded="true" />
+            <element signature="e#13051#17054#1" expanded="true" />
+            <element signature="e#17696#19797#1" expanded="true" />
+            <element signature="e#150807#153058#1" expanded="true" />
+            <element signature="e#155923#156638#1" expanded="true" />
+            <element signature="e#598094#599575#1" expanded="true" />
+            <element signature="e#600221#601778#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/asset-manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.c5ff8c25.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret column="392" lean-forward="true" selection-start-column="392" selection-end-column="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/message/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#Activities4#0" />
+            <element signature="n#!!block;n#render#0;n#Activities4#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Activities/Activities3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="151" column="41" lean-forward="true" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#componentWillMount#0;n#RegistrationForm#0" />
+            <element signature="n#!!block;n#constructor#0;n#Activities3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
